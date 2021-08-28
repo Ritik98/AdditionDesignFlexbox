@@ -96,6 +96,9 @@ p{
         margin-left: 10px;
         color:rgb(120,120,120);
     }
+    p{
+        color : hsl(229, 6%, 66%);
+    }
     
   }
   @media only screen and (max-width: 600px)
@@ -108,5 +111,8 @@ p{
     }
     .heading{
         font-size:25px;
+    }
+    p{
+        color : hsl(229, 6%, 66%);
     }
   }
